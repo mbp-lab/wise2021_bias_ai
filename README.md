@@ -17,3 +17,5 @@ Run the following commands from your conda terminal.
 3. conda install -c conda-forge jupyterlab
 4. conda install scikit-learn
 5. conda install matplotlib
+6. conda install pandas
+7. conda install seaborn
