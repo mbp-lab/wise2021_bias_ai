@@ -58,6 +58,13 @@ For this seminar, we will use [JupyterLab](https://jupyterlab.readthedocs.io/en/
 3. To open an existing notebook
 	- In the file explorer pane on the left, browse to an `.ipynb` file and doubleclick it
 
+### Validate Your Virtual Environmenmt Installation
+
+To validate your virtual env installation, and make sure you are able to run a simple notebook
+
+1. In JupyterLab, open `validate_installation.ipynb`
+2. Follow the instructions in the Notebook
+
 ### Intro to ML Notebook
 
-As an example, you can familiarize yourself with the notebook we will use in our first lecture `intro_ml.ipynb`
+As an example, you can also familiarize yourself with the Notebook we will use in our first lecture: `intro_ml.ipynb`
