@@ -11,7 +11,7 @@ For the last notebook you will need to install two different libraries: [Lime](h
 To create a new virtual env for this seminar, run the following commands from your conda terminal. Please make sure to install the libraries in the presented order, otherwise, there might be conflicts.
 
 1. Create a new virtual env eg. named 'ml_bias_interpret' with the specific version of Python3.6:
- 	- `conda create -n ml_bias_interpreta python=3.6`
+ 	- `conda create -n ml_bias_interpret python=3.6`
 2. Activate the new virtual env:
 	- `conda activate ml_bias_interpret`
 3. Install the required Python packages
