@@ -27,9 +27,9 @@ To create a new virtual env for this seminar, run the following commands from yo
     
 8. Copy or download the adult dataset to the new environment, as done in the first notebook.
 	- The files you need are:
-	-- https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
-	-- https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.test
-	-- https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names
+	- https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+	- https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.test
+	- https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names
 
 	- place them, as-is, in the folder: \envs\ml_bias_interpret\lib\site-packages\aif360\data\raw\adult
 
