@@ -21,7 +21,7 @@ To create a new virtual env for this seminar, run the following commands from yo
 5. Install innvestigate 
 	- `pip install innvestigate`
 6. Install AIF360
-	- `pip install 'aif360[all]'`
+	- `pip install aif360[all]`
 7. Install Lime 
 	- `pip install lime`
     
