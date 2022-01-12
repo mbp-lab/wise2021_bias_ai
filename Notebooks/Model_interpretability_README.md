@@ -45,5 +45,5 @@ To create a new virtual env for this seminar, run the following commands from yo
 3. Run also the `Bias_mitigation_solution` notebook to check if any errors occur 
 
 If any errors will occur, another option would be to use two different environments (AIF360 + lime; innvestigate), since they both will be used independently.
-You can also reach out to Tatjana (tmaskaljunas@techfach.uni-bielefeld.de)
+You can also reach out to Bhargav (bacharya@techfak.de)
 
